@@ -1,1 +1,1 @@
-# WPTheme
+Building out a WordPress theme
